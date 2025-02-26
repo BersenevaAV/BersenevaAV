@@ -12,10 +12,10 @@
 ![Spring](https://img.shields.io/badge/spring-%25?style=for-the-badge&logo=spring&color=lavenderblush)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%25?style=for-the-badge&logo=hibernate&color=peru)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge&color=teal)
-![Docker](https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro)
-![JUnit](https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson)
-![Git](https://img.shields.io/badge/Git-%25.svg?style=for-the-badge&logo=git&color=black)
 ![Postman](https://img.shields.io/badge/Postman-%25.svg?style=for-the-badge&logo=postman&color=moccasin)
+![Git](https://img.shields.io/badge/Git-%25.svg?style=for-the-badge&logo=git&color=black)
+![JUnit](https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson)
+![Docker](https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro)
 
 ---
 
