@@ -9,8 +9,8 @@
 ### &#128736; Стек:
 ![Java](https://img.shields.io/badge/java-%25?style=for-the-badge&logo=java&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%252300758F.svg?style=for-the-badge&logo=PostgreSQL&color=lightskyblue)
-![Hibernate](https://img.shields.io/badge/Hibernate-%25?style=for-the-badge&logo=hibernate&color=peru)
 ![Spring](https://img.shields.io/badge/spring-%25?style=for-the-badge&logo=spring&color=lavenderblush)
+![Hibernate](https://img.shields.io/badge/Hibernate-%25?style=for-the-badge&logo=hibernate&color=peru)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge&color=teal)
 ![Docker](https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro)
 ![JUnit](https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson)
