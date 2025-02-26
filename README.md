@@ -15,6 +15,7 @@
 ![Docker](https://img.shields.io/badge/docker-%25?style=for-the-badge&logo=docker&color=gainsboro)
 ![JUnit](https://img.shields.io/badge/JUnit-%25?style=for-the-badge&color=crimson)
 ![Git](https://img.shields.io/badge/Git-%25.svg?style=for-the-badge&logo=git&color=black)
+![Postman](https://img.shields.io/badge/Postman-%25.svg?style=for-the-badge&logo=postman&color=moccasin)
 
 ---
 
